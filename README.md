@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwovadis
-- 🌱 I’m currently learning python & data science
+- 🌱 I’m a product manager learning about python, data science & ai agents
 - 📫 How to reach me: kwovadis1@gmail.com
 
 <!---
